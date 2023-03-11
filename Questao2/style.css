@@ -8,7 +8,7 @@ body {
     width: 250px;
     margin: 50px auto;
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: column wrap;
     justify-content: center;
     align-items: center;
 }
